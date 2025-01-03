@@ -207,6 +207,24 @@ _desktop_contact_payment{
     -o-transition: all 0.5s;
     transition: all 0.5s;
     text-decoration: unset;
+    margin-top: 0;
+}
+.site-footer__newsletter input#email_check_box {
+    width: 19%;
+    height: 30px;
+}
+.site-footer__newsletter .contact-form label {
+    margin: 0 0 12px;
+    display: block;
+    color: #353535;
+    font-size: 14px;
+    font-weight: 400;
+}
+.email_check_div label {
+    font-size: 12px!important;
+    font-weight: 500!important;
+    text-align: left;
+    margin-left: 10px!important;
 }
 .new-sec-heading-footer {
     margin-bottom: 4rem;
@@ -339,6 +357,7 @@ h2#footer-sec-heading {
     padding: 10px;
     text-indent: 10px;
     padding-right: 135px;
+    width: 61%;
 }
 .site-footer__newsletter .contact-form .input-group .input-group__btn {
     float: right;
@@ -371,7 +390,7 @@ h2#footer-sec-heading {
 }
 .site-footer__newsletter .email_check_div {
     display: flex;
-    margin-top: 2rem;
+    margin-top: 20px;
 }
 
 
