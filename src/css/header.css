@@ -345,6 +345,7 @@ p.head-account {
     text-transform: uppercase;
     font-family: Montserrat;
     text-decoration: unset;
+    letter-spacing: 0.5px;
 }
 #header .nav-header .header-block span, #header .nav-header .store-location a {
     font-size: 11px;

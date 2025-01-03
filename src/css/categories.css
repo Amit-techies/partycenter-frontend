@@ -34,9 +34,16 @@
     
   }
 
-  .custom-categoreis h2{
+  .custom-categoreis h2 {
     text-align: center;
-  }
+    text-transform: uppercase;
+    font-family: 'Montserrat';
+    font-weight: 700;
+    font-size: 20px;
+    letter-spacing: .1em;
+}
+
+ 
   .custom-categoreis {
     margin-top:30px;
 }
