@@ -59,14 +59,14 @@ ul.nimonics_icons li h3 {
 .site-footer .block_newsletter #newsletter-container .newsletter_text .title_block {
     color: #000!important;
 }
-.site-footer .block_newsletter .newsletter_text .title_block {
+/* .site-footer .block_newsletter .newsletter_text .title_block {
     font-size: 20px;
     margin-bottom: 10px;
     font-weight: 600;
     letter-spacing: .5px;
     font-family: Montserrat;
     text-transform: capitalize;
-}
+} */
 .newsletter_text h3.followus_party {
     font-size: 14px;
     margin: 5px 0px;
@@ -597,4 +597,26 @@ ul.nimonics_icons li {
     padding-left: 0px;
     padding-right: 0px;
 }
+}
+
+.site-footer__newsletter.col-md-4.col-lg-4 h2 {
+    /* font-family: Poppins; */
+    font-weight: 700;
+    font-size: 15px;
+    text-transform: uppercase;
+    margin: 0 0 6.5px;
+}
+.footer-content.contact-info h2 {
+    font-weight: 700;
+    font-size: 15px;
+    text-transform: uppercase;
+    margin: 0 0 6.5px;
+    font-family: 'Montserrat';
+}
+.block_newsletter.footer-block h2{
+    font-weight: 700;
+    font-size: 15px;
+    text-transform: uppercase;
+    margin: 0 0 6.5px;
+    font-family: 'Montserrat';
 }
