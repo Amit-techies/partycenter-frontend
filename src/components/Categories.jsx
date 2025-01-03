@@ -27,7 +27,7 @@ export default function Categories() {
         <div key={item.id} className="categories-grid-item">
           <a href="">
           <img src={item.image} alt={item.heading} className="categories-image" />
-          <h3 className="categories-heading">{item.heading}</h3>
+          <p className="categories-heading">{item.heading}</p>
           </a>
         </div>
       ))}

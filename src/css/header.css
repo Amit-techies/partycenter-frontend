@@ -346,7 +346,9 @@ p.head-account {
     font-family: Montserrat;
     text-decoration: unset;
     letter-spacing: 0.5px;
+    line-height: 1.2;
 }
+
 #header .nav-header .header-block span, #header .nav-header .store-location a {
     font-size: 11px;
 }

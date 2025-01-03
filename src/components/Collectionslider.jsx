@@ -8,6 +8,8 @@ import '../css/collection-slider.css';
 
 const Collectionslider = () => {
   return (
+    <div>
+      <h2 className='disney-princess__title home-title'>WHAT ARE YOU PLANNING TO CELEBRATE?</h2>
     <div className="disney-princess-slider">
       <div className="page-width">
         <Swiper
@@ -111,6 +113,7 @@ const Collectionslider = () => {
         <div className="swiper-button-next"></div>
         <div className="swiper-button-prev"></div>
       </div>
+    </div>
     </div>
   );
 };
