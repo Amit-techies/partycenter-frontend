@@ -430,6 +430,9 @@ img.mob_badge_image_twenty {
     color: #151515;
     text-decoration: unset;
 }
+.middle-section {
+    order: 4;
+}
 
 
 
@@ -677,6 +680,9 @@ img.mob_badge_image_twenty {
         vertical-align: middle;
         padding: 18px 8px;
         margin: 0;
+    }
+    .middle-section {
+        display:none;
     }
 }
 

@@ -251,6 +251,24 @@ const Header = () => {
                           </div>
                         </div>
                       </div>
+
+                      <div className="middle-section">
+                        <select
+                            className="language-selector"
+                        >
+                           <option value='English'>
+                                    English
+                                </option>
+                                <option value='Arabic'>
+                                Arabic
+                                </option>
+                        </select>
+                       
+                    </div>
+
+
+
+                      
                     </div>
                   </div>
                 </div>
